@@ -252,7 +252,7 @@ class _ChatPageState extends State<ChatPage> {
 //     channel = IOWebSocketChannel.connect(
 //       uri,
 //       headers: {
-//         'Authorization': 'Bearer AIzaSyD_7_S3fQIgWwle8EMp6i-u--ZwmOWwZgM', // Replace with your Gemini API key
+//         'Authorization': 'Bearer ', // Replace with your Gemini API key
 //       },
 //     );
 
